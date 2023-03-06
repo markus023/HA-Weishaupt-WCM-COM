@@ -5,7 +5,7 @@
 ### Installation
 
 Install using HACS and adding the custom repo:
-https://github.com/phamels/HA-Weishaupt-WCM-COM
+https://github.com/markus023/HA-Weishaupt-WCM-COM
 
 Add the following entry in your `configuration.yaml`:
 
